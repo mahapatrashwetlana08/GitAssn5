@@ -1,1 +1,3 @@
 feature1-1st-change
+doing changes to feature1 code from feature1 branch before feature1 1st commit to develop branch
+Then this code will be merged with develop brancha long with changed Feature2 code
