@@ -1,1 +1,3 @@
 feature2-my-1st-changes
+pulled this feature2 code from develop branch and doing changes in feature1 branch
+this will be saved now in feature1 branch
